@@ -40,3 +40,12 @@ Simulation Pack은 Spice를 이용한 아날로그/디지털 회로 시뮬레이
 
 ![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/dc4aaa2e-c1d6-419b-8fde-30018b741dc3)
 
+# 3. 스케마틱 부품 그려서 만들고 만든 부품으로 스케마틱 그려보기
+
+- 원본
+
+![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/19297ef1-ec5b-457c-89e7-c48904e62b71)
+
+- 나의 스케마틱
+
+![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/2229483b-9850-49b9-9cc2-3869e008b1b5)
