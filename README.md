@@ -48,4 +48,5 @@ Simulation Pack은 Spice를 이용한 아날로그/디지털 회로 시뮬레이
 
 - 나의 스케마틱
 
-![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/2229483b-9850-49b9-9cc2-3869e008b1b5)
+![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/f1577e2d-b1b9-4425-939e-602090c29bb8)
+
