@@ -50,3 +50,11 @@ Simulation Pack은 Spice를 이용한 아날로그/디지털 회로 시뮬레이
 
 ![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/f1577e2d-b1b9-4425-939e-602090c29bb8)
 
+# 4. 배선 작업
+- 직접 그린 것
+
+![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/623d1f57-eff5-4dc3-a3b9-1906f0d7f7dd)
+
+- 완성본(샘플)
+
+![image](https://github.com/hsy0511/PCB-CSiEDA5/assets/104752580/fdd2ea66-93c6-4cd8-93ef-d23d8b85358b)
